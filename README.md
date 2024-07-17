@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently learning **Adavance java**
+- 🌱 I’m currently working **Major projects**
 
 - 📫 How to reach me **akashkumarpatel7788@gmail.com**
 - How to reach me **917903268015**
