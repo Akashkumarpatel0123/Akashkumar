@@ -25,8 +25,8 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🛠 &nbsp; I’m currently working Major project etc.
+- 🚀 &nbsp; I’m currently exploringAdvance java etc.
 - 💬 &nbsp; Ask me anything [here](akashkumarpatel7788@gmail.com)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: akashkumarpatel7788@gmail.com.
